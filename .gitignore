@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 nrel.py
-
+nrel_data.json
